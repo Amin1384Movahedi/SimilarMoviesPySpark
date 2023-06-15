@@ -19,3 +19,5 @@ it takes into consideration the basic fact that if person X and person Y have a 
 - Measure the similarity of their ratings across all users who watched both.
 
 - Sort by movie, then by similarity strength.
+
+![Item Base Collaborative Filtering Flow](https://timesinternet.in/blog/wp-content/uploads/2020/03/i5.png)
